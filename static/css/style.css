@@ -1,0 +1,6 @@
+body #preview {
+        border-radius: 15px;
+        background: grey;
+        max-width: 75%;
+        overflow: auto;
+}
